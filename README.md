@@ -245,6 +245,7 @@
 '>pj3bg6
 </a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg6
 '>(repo)</a>&nbsp;</a><p>
+
 ## Motivation
 The most important part of applying for a job and getting an interview is having a very formal and concise resume. 
 The important part of building a resume are
