@@ -1,10 +1,11 @@
 # Resume Builder using ChatGPT
 ## Group
+變成學號的地方代表他沒填excel表單
 <p><a href='https://nfu40723217.github.io/resume'>40723217</a>&nbsp;<a href='https://github.com/nfu40723217/resume-nfu40723217'>(repo)</a>&nbsp;<a href='https://nfu40723217.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/nfu40723217/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-pj1bg11'>pj1bg11</a>&nbsp;<a href='https://github.com/mdecd2023/2b-pj1bg11'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-pj2bg1'>pj2bg1</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-pj2bg1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/pj3bg1
 '>pj3bg1
 </a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg1
 '>(repo)</a>&nbsp;</a><p>
-<p><a href='https://a40732331.github.io/resume'>40732331</a>&nbsp;<a href='https://github.com/a40732331/resume-a40732331'>(repo)</a>&nbsp;<a href='https://a40732331.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/a40732331/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-pj1bg28'>pj1bg28</a>&nbsp;<a href='https://github.com/mdecd2023/2b-pj1bg28'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-'></a>&nbsp;<a href='https://github.com/mdecd2023/2b2-'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/pj3bg7
+<p><a href='https://a40732331.github.io/resume'>40732331</a>&nbsp;<a href='https://github.com/a40732331/resume-a40732331'>(repo)</a>&nbsp;<a href='https://a40732331.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/a40732331/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-pj1bg28'>pj1bg28</a>&nbsp;<a href='https://github.com/mdecd2023/2b-pj1bg28'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-40732331'>40732331</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-40732331'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/pj3bg7
 '>pj3bg7
 </a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg7
 '>(repo)</a>&nbsp;</a><p>
@@ -80,7 +81,10 @@
 '>pj3bg6
 </a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg6
 '>(repo)</a>&nbsp;</a><p>
-<p><a href='https://41023211.github.io/resume'>41023211</a>&nbsp;<a href='https://github.com/41023211/resume-41023211'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/mdecd2023/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-41023211'>41023211</a>&nbsp;<a href='https://github.com/mdecd2023/2b-41023211'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-41023211'>41023211</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-41023211'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/41023211'>41023211</a>&nbsp;<a href='https://github.com/mdecd2023/41023211'>(repo)</a>&nbsp;</a><p>
+<p><a href='https://41023211.github.io/resume'>41023211</a>&nbsp;<a href='https://github.com/41023211/resume-41023211'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/mdecd2023/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-41023211'>41023211</a>&nbsp;<a href='https://github.com/mdecd2023/2b-41023211'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-41023211'>41023211</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-41023211'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/pj3bg8
+'>pj3bg8
+</a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg8
+'>(repo)</a>&nbsp;</a><p>
 <p><a href='https://yonqui0411.github.io/resume'>41023212</a>&nbsp;<a href='https://github.com/yonqui0411/resume-yonqui0411'>(repo)</a>&nbsp;<a href='https://yonqui0411.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/yonqui0411/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-pj1bg18'>pj1bg18</a>&nbsp;<a href='https://github.com/mdecd2023/2b-pj1bg18'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-pj2bg8'>pj2bg8</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-pj2bg8'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/pj3bg5
 '>pj3bg5
 </a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg5
@@ -189,8 +193,14 @@
 '>pj3bg5
 </a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg5
 '>(repo)</a>&nbsp;</a><p>
-<p><a href='https://41023243.github.io/resume'>41023243</a>&nbsp;<a href='https://github.com/41023243/resume-41023243'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/mdecd2023/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-41023243'>41023243</a>&nbsp;<a href='https://github.com/mdecd2023/2b-41023243'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-41023243'>41023243</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-41023243'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/41023243'>41023243</a>&nbsp;<a href='https://github.com/mdecd2023/41023243'>(repo)</a>&nbsp;</a><p>
-<p><a href='https://41023244.github.io/resume'>41023244</a>&nbsp;<a href='https://github.com/41023244/resume-41023244'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/mdecd2023/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-41023244'>41023244</a>&nbsp;<a href='https://github.com/mdecd2023/2b-41023244'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-41023244'>41023244</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-41023244'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/41023244'>41023244</a>&nbsp;<a href='https://github.com/mdecd2023/41023244'>(repo)</a>&nbsp;</a><p>
+<p><a href='https://41023243.github.io/resume'>41023243</a>&nbsp;<a href='https://github.com/41023243/resume-41023243'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/mdecd2023/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-41023243'>41023243</a>&nbsp;<a href='https://github.com/mdecd2023/2b-41023243'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-41023243'>41023243</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-41023243'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/
+'>
+</a>&nbsp;<a href='https://github.com/mdecd2023/
+'>(repo)</a>&nbsp;</a><p>
+<p><a href='https://41023244.github.io/resume'>41023244</a>&nbsp;<a href='https://github.com/41023244/resume-41023244'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/mdecd2023/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-41023244'>41023244</a>&nbsp;<a href='https://github.com/mdecd2023/2b-41023244'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-41023244'>41023244</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-41023244'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/pj3bg2
+'>pj3bg2
+</a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg2
+'>(repo)</a>&nbsp;</a><p>
 <p><a href='https://41023245.github.io/resume'>41023245</a>&nbsp;<a href='https://github.com/41023245/resume-41023245'>(repo)</a>&nbsp;<a href='https://41023245.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/41023245/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-pj1bg27'>pj1bg27</a>&nbsp;<a href='https://github.com/mdecd2023/2b-pj1bg27'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-pj2bg11'>pj2bg11</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-pj2bg11'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/pj3bg7
 '>pj3bg7
 </a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg7
@@ -211,7 +221,10 @@
 '>pj3bg8
 </a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg8
 '>(repo)</a>&nbsp;</a><p>
-<p><a href='https://41023250.github.io/resume'>41023250</a>&nbsp;<a href='https://github.com/41023250/resume-41023250'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/mdecd2023/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-41023250'>41023250</a>&nbsp;<a href='https://github.com/mdecd2023/2b-41023250'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-41023250'>41023250</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-41023250'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/41023250'>41023250</a>&nbsp;<a href='https://github.com/mdecd2023/41023250'>(repo)</a>&nbsp;</a><p>
+<p><a href='https://41023250.github.io/resume'>41023250</a>&nbsp;<a href='https://github.com/41023250/resume-41023250'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/mdecd2023/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-41023250'>41023250</a>&nbsp;<a href='https://github.com/mdecd2023/2b-41023250'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-41023250'>41023250</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-41023250'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/pj3bg3
+'>pj3bg3
+</a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg3
+'>(repo)</a>&nbsp;</a><p>
 <p><a href='https://sdegbsvrtg.github.io/resume'>41023251</a>&nbsp;<a href='https://github.com/sdegbsvrtg/resume-sdegbsvrtg'>(repo)</a>&nbsp;<a href='https://sdegbsvrtg.github.io/football-bpj1'>football</a>&nbsp;<a href='https://github.com/sdegbsvrtg/football-bpj1'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b-pj1bg2'>pj1bg2</a>&nbsp;<a href='https://github.com/mdecd2023/2b-pj1bg2'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/2b2-pj2bg12'>pj2bg12</a>&nbsp;<a href='https://github.com/mdecd2023/2b2-pj2bg12'>(repo)</a>&nbsp;<a href='https://mdecd2023.github.io/pj3bg4
 '>pj3bg4
 </a>&nbsp;<a href='https://github.com/mdecd2023/pj3bg4
